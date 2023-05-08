@@ -1,1 +1,4 @@
-2 - 1 - 1
+a := 1;
+CONSOLE a;
+a := 2;
+CONSOLE a
